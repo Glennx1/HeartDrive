@@ -16,10 +16,6 @@ Logistic Regression
 
 Random Forest
 
-K-Nearest Neighbors (KNN)
-
-XGBoost Classifier
-
 
 📊 Features
 The dataset includes the following features:
